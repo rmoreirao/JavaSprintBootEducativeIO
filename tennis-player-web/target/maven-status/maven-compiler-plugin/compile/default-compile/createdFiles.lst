@@ -1,0 +1,3 @@
+org\example\tennisplayer\web\Player.class
+org\example\tennisplayer\web\PlayerService.class
+org\example\tennisplayer\web\PlayerServlet.class

@@ -1,0 +1,8 @@
+org\example\springboot\unit\testing\RecommenderImplementationSpringBootTest.class
+org\example\spring\unit\testing\StudentServiceMockitoTest.class
+org\example\spring\unit\testing\StudentServiceStubTest.class
+org\example\springboot\unit\testing\RecommenderImplementationUnitTest.class
+org\example\spring\unit\testing\StudentDaoStub.class
+org\example\spring\unit\testing\ArrayMethodsTest.class
+org\example\spring\unit\testing\StudentServiceMockitoAnnotationsTest.class
+org\example\springboot\unit\testing\RecommenderImplementationMockTest.class

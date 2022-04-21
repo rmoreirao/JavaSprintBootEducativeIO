@@ -1,0 +1,9 @@
+org\example\spring\unit\testing\ArrayMethods.class
+org\example\spring\unit\testing\StudentService.class
+org\example\springboot\unit\testing\Filter.class
+org\example\spring\unit\testing\StudentDao.class
+org\example\springboot\unit\testing\RecommenderImplementation.class
+org\example\springboot\unit\testing\CollaborativeFilter.class
+org\example\spring\unit\testing\UnitTestingApplication.class
+org\example\springboot\unit\testing\ContentBasedFilter.class
+org\example\springboot\unit\testing\MovieRecommenderSystemApplication.class

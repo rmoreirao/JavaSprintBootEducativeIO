@@ -1,0 +1,6 @@
+org\example\tennisplayer\springmvc\PlayerService.class
+org\example\tennisplayer\springmvc\AthleteController.class
+org\example\tennisplayer\springmvc\Player.class
+org\example\tennisplayer\springmvc\Athlete.class
+org\example\tennisplayer\springmvc\PlayerController.class
+org\example\tennisplayer\springmvc\TennisController.class
